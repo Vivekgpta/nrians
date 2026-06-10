@@ -25,7 +25,7 @@ export function BatchVideo() {
             ) : (
               <>
                 <img
-                  src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1600&q=80"
+                  src="public/img/slider2.1.jpeg"
                   alt="Batch film"
                   className="h-full w-full object-cover opacity-70"
                 />
